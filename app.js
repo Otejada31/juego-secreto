@@ -55,6 +55,7 @@ function generarNumeroSecreto(){
             return numeroGenerado;
         }
 }
+}
 
 function condicionesIniciales(){
     asignarTextoElemento('h1','Juego del numero secreto!');
@@ -78,4 +79,4 @@ function reiniciarJuego(){
 }
 condicionesIniciales();
 
-}
+
